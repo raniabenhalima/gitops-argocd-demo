@@ -10,7 +10,7 @@ data:
         <title>GitOps Demo</title>
       </head>
       <body>
-        <h1>Hello World RANIA HHHHa/h1>
+        <h1>Hello World /h1>
         <h2>Deployed with Argo CD</h2>
       </body>
     </html>
